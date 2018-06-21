@@ -24,7 +24,9 @@ bot.on('message', message => {
     
     case "botinfo":
       message.channel.send("Hi!")
-      break;
+    break;
+      
+  }
 });
 
 /* FUNCTION */

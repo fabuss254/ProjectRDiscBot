@@ -4,6 +4,7 @@ const Discord = require("discord.js");
 const gd = require('node-gd');
 const http = require('http');
 const fs = require('fs');
+const chatbot = require('chatbot');
 
 var prefix = ":";
 var footer = "Created by Fabuss254#9232";

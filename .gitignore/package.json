@@ -17,6 +17,7 @@
     "opusscript": "0.0.6",
     "request": "^2.85.0",
     "ytdl-core": "^0.20.2",
-    "node-gd": "1.5.4"
+    "node-gd": "1.5.4",
+    "chatbot": "1.2.3"
   }
 }
